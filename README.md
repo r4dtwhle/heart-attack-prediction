@@ -236,10 +236,6 @@ heart-attack-prediction/
 
 ##  Cara Menjalankan
 
-### Opsi 1: Coba aplikasi secara online
-Buka **[heart-attack-r4dtwhle.streamlit.app](https://heart-attack-r4dtwhle.streamlit.app)**.
-
-### Opsi 2: Jalankan di komputer sendiri
 
 ```bash
 # 1. Clone repository
